@@ -1,0 +1,14 @@
+.work {
+    padding: 100px 0;
+}
+.work__block {
+    max-width: 540px;
+    margin: 0 auto;
+    text-align: center;
+}
+.work__title {
+    margin-bottom: 50px;
+}
+.work__text {
+    margin-bottom: 57px;
+}
