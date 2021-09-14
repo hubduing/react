@@ -44,6 +44,10 @@
     padding: 25px 41px;
     background: #34547A;
 }
+.banner__btn:hover {
+    opacity: .8;
+    cursor: pointer;
+}
 .banner__btn-text {
     text-transform: uppercase;
     font-weight: normal;

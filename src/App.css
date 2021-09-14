@@ -34,6 +34,17 @@
   color: #61dafb;
 }
 
+.microsoft-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 72px 0 100px;
+  flex-wrap: wrap;
+}
+.microsoft-box img {
+  margin-right: 30px;
+  min-height: 120px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -42,3 +53,4 @@
     transform: rotate(360deg);
   }
 }
+
